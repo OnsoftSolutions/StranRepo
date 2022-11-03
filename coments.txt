@@ -1,0 +1,17 @@
+commit 558ab38dfb7949b45d1f96076e20051ea0d079e8
+Author: “ENRIQUE <“engonzalez@sistran.com.co”>
+Date:   Thu Nov 3 09:06:32 2022 -0500
+
+    modificacion del drop de productos
+
+commit f3455447e181066b75d84c804619fbb83fdebc5e
+Author: “ENRIQUE <“engonzalez@sistran.com.co”>
+Date:   Thu Nov 3 09:04:57 2022 -0500
+
+    modificacion index.html en nombre de titulo
+
+commit a6623fa18e88682eab2edb6edd3afa9f4c3c64f9
+Author: “ENRIQUE <“engonzalez@sistran.com.co”>
+Date:   Thu Nov 3 09:00:59 2022 -0500
+
+    inicio proyecto capacitacion
